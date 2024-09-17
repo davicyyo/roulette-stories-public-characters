@@ -14,16 +14,26 @@ These characters will be under subjective evaluation based on whether or not it 
 # How to Upload
 
 1.Export your character on app ![image](https://github.com/user-attachments/assets/deb50b71-1948-43b1-b441-dedb8fe77280)
+
 2. Login on Github
-3. Fork this repository ![image](https://github.com/user-attachments/assets/b51f3d84-ac6a-486e-bd2c-702a99925cd4)
-4. Go to your repository https://github.com/yourUser/roulette-stories-public-characters
-5. Join on characters folder ![image](https://github.com/user-attachments/assets/cb1c4e36-2268-4552-adfe-fbd4ec1f7c6e)
-6. Upload your .json file ![image](https://github.com/user-attachments/assets/c2039204-56bc-49f8-bca2-69081d28b085)
-7. Go to: https://github.com/davicyyo/roulette-stories-public-characters/compare
-8. Press Compare across forks ![image](https://github.com/user-attachments/assets/dd74754f-bcae-4a52-875b-a2538efb55bb)
-9. Just change your username - main in right side ![image](https://github.com/user-attachments/assets/64ee7419-f9f6-45d6-8356-9faf37952dd9)
-10. Create pull request ![image](https://github.com/user-attachments/assets/db0a9976-9f5f-4a1f-afe2-2a0aad1e0d6a)
-11. Wait for approval (Changes may be required so stay tuned)
+
+4. Fork this repository ![image](https://github.com/user-attachments/assets/b51f3d84-ac6a-486e-bd2c-702a99925cd4)
+
+6. Go to your repository https://github.com/yourUser/roulette-stories-public-characters
+
+8. Join on characters folder ![image](https://github.com/user-attachments/assets/cb1c4e36-2268-4552-adfe-fbd4ec1f7c6e)
+
+10. Upload your .json file ![image](https://github.com/user-attachments/assets/c2039204-56bc-49f8-bca2-69081d28b085)
+
+12. Go to: https://github.com/davicyyo/roulette-stories-public-characters/compare
+
+14. Press Compare across forks ![image](https://github.com/user-attachments/assets/dd74754f-bcae-4a52-875b-a2538efb55bb)
+
+16. Just change your username - main in right side ![image](https://github.com/user-attachments/assets/64ee7419-f9f6-45d6-8356-9faf37952dd9)
+
+18. Create pull request ![image](https://github.com/user-attachments/assets/db0a9976-9f5f-4a1f-afe2-2a0aad1e0d6a)
+
+20. Wait for approval (Changes may be required so stay tuned)
 
 
 
