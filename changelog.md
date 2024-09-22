@@ -1,2 +1,3 @@
-1.0.0
-Release game
+# 1.0.0
+
+- Release game
