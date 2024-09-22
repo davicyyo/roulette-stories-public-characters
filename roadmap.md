@@ -5,3 +5,4 @@
 - Character Interaction Mode (More Immersive)
 - More music
 - Make game modes less generic and more unique
+- Make the model increasingly freer and less restrictive and less censored.
