@@ -12,3 +12,4 @@
 - View other community game modes, download or export your own game modes
 - Video interact
 - Use raw python ai and remove ollama
+- Streaming message
