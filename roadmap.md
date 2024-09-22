@@ -14,3 +14,4 @@
 - Use raw python ai and remove ollama
 - Streaming message
 - Achievements
+- Edit profiles
