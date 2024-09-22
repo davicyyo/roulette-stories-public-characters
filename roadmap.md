@@ -15,3 +15,5 @@
 - Streaming message
 - Achievements
 - Edit profiles
+- Edit your message
+- Edit message of Ai (Only Roleplay)
