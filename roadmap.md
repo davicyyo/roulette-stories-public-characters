@@ -18,3 +18,4 @@
 - Edit your message
 - Edit message of Ai (Only Roleplay)
 - Groupal chat
+- Add an api-key generated each time for online connections (This should make any brute-force attempt to access your online game come at an absurdly high cost in terms of computational calculation.)
