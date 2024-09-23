@@ -7,7 +7,7 @@
 - Make game modes less generic and more unique
 - Make the model increasingly freer and less restrictive and less censored.
 - Make settings to further customize the behavior of each game mode
-- Volume settings
+- Volume settings (Music, Effects, Voices)
 - Creating Your Own Game Mode
 - View other community game modes, download or export your own game modes
 - Video interact
