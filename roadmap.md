@@ -1,7 +1,7 @@
 # Roadmap
 - Improve model
 - Improve user chat interactions
-- New gamemodes (Psychologist, Swindler, Senator, White Magician, Dark Magician, Intellectual Duel, Political Debate, Human Resources, Trade Unionist, Human Resources)
+- New gamemodes (Psychologist, Swindler, Senator, White Magician, Dark Magician, Intellectual Duel, Political Debate, Human Resources, Trade Unionist, Human Resources, Guess the word)
 - Character Interaction Mode (More Immersive)
 - More music
 - Make game modes less generic and more unique
