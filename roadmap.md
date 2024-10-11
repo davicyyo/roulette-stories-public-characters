@@ -21,3 +21,4 @@
 - Add an api-key generated each time for online connections (This should make any brute-force attempt to access your online game it was impossible)
 - Phone Calls
 - Add photo (Create character) by url
+- Change serveo to cloudflare tunnel
